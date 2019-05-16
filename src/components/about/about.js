@@ -24,7 +24,6 @@ export default class About extends Component {
                      </span>
                      <br/>
                      <span>
-                        (954) 812-0180
                      </span>
                      <br/>
                      <span>
